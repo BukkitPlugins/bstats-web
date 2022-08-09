@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>bStats</title>
+    <title>pStats</title>
 </svelte:head>
 
 <StandardNavigation />
@@ -13,7 +13,7 @@
     class="flex flex-col items-center justify-center pt-24 bg-gray-50 dark:bg-gray-900 background"
 >
     <h1 class="mb-4 text-6xl font-bold text-blue-900 dark:text-blue-500">
-        bStats
+        pStats
     </h1>
     <span
         class="flex flex-wrap items-center justify-center px-4 text-2xl text-gray-800 dark:text-gray-200"
@@ -39,7 +39,7 @@
                     <span
                         class="mr-1 text-3xl font-bold text-blue-900 dark:text-blue-500"
                     >
-                        bStats
+                        pStats
                     </span>
                     <span class="text-xl text-gray-800 dark:text-gray-200">
                         is the all-in-one solution to tracking and analyzing
