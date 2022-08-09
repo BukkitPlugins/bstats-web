@@ -50,7 +50,7 @@
             class="p-1 -ml-1 text-2xl font-bold rounded focus:outline-none focus:ring-1 ring-blue-200"
             href="/"
         >
-            bStats
+            pStats
         </a>
     </div>
     <div class="z-10 flex-grow hidden sm:block md:ml-16">
