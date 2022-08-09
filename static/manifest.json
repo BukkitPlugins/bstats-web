@@ -1,7 +1,7 @@
 {
     "background_color": "#FFFFFF",
     "theme_color": "#1D4ED8",
-    "name": "bStats",
+    "name": "pStats",
     "short_name": "bStats",
     "display": "minimal-ui",
     "start_url": "/",
